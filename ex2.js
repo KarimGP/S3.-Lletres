@@ -29,7 +29,7 @@ function VocalConsonant(argument) {
 }
 
 // Llamar a la función pasando diferentes caracteres
-VocalConsonant("K", "A");
+VocalConsonant('K');
 
 VocalConsonant('A');
 
