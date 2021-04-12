@@ -1,3 +1,5 @@
+
+
 function VocalConsonant(argument) {
 
     // define un array de vocales
